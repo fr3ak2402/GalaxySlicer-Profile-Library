@@ -1,0 +1,13 @@
+{
+    "type": "machine_model",
+    "name": "Orca Arena X1 Carbon",
+    "model_id": "orca_arena_x1c",
+    "url": "",
+    "nozzle_diameter": "0.4;0.2;0.6;0.8",
+    "machine_tech": "FFF",
+    "family": "ARENA-3DP",
+    "bed_model": "",
+    "bed_texture": "",
+    "hotend_model": "",
+    "default_materials": "Arena ABS @Arena X1C 0.2 nozzle;Arena ABS @Arena X1C 0.8 nozzle;Arena ABS @Arena X1C;Arena PA-CF @Arena X1C;Arena PAHT-CF @Arena X1C;Arena PC @Arena X1C 0.2 nozzle;Arena PC @Arena X1C 0.6 nozzle;Arena PC @Arena X1C 0.8 nozzle;Arena PC @Arena X1C;Arena PET-CF @Arena X1C;Arena PETG Basic @Arena X1C 0.2 nozzle;Arena PETG Basic @Arena X1C 0.8 nozzle;Arena PETG Basic @Arena X1C;Arena PETG-CF @Arena X1C;Arena PLA Basic @Arena X1C 0.2 nozzle;Arena PLA Basic @Arena X1C 0.8 nozzle;Arena PLA Basic @Arena X1C;Arena PLA Impact @Arena X1C;Arena PLA Marble @Arena X1C;Arena PLA Matte @Arena X1C 0.2 nozzle;Arena PLA Matte @Arena X1C 0.8 nozzle;Arena PLA Matte @Arena X1C;Arena PLA Metal @Arena X1C 0.2 nozzle;Arena PLA Metal @Arena X1C;Arena PLA Silk @Arena X1C 0.2 nozzle;Arena PLA Silk @Arena X1C;Arena PLA Sparkle @Arena X1C;Arena PLA Tough @Arena X1C 0.2 nozzle;Arena PLA Tough @Arena X1C;Arena PLA-CF @Arena X1C 0.8 nozzle;Arena PLA-CF @Arena X1C;Arena Support G @Arena X1C;Arena Support W @Arena X1C 0.2 nozzle;Arena Support W @Arena X1C;Arena TPU 95A @Arena X1C;OrcaArena Generic ABS @0.2 nozzle;OrcaArena Generic ABS;OrcaArena Generic ASA @0.2 nozzle;OrcaArena Generic ASA;OrcaArena Generic PA;OrcaArena Generic PA-CF;OrcaArena Generic PC @0.2 nozzle;OrcaArena Generic PC;OrcaArena Generic PETG @0.2 nozzle;OrcaArena Generic PETG;OrcaArena Generic PETG-CF @Arena X1C;OrcaArena Generic PLA @0.2 nozzle;OrcaArena Generic PLA Silk;OrcaArena Generic PLA;OrcaArena Generic PLA-CF;OrcaArena Generic PVA @0.2 nozzle;OrcaArena Generic PVA;OrcaArena Generic TPU;PolyLite PLA @Arena X1C 0.2 nozzle;PolyLite PLA @Arena X1C;PolyTerra PLA @Arena X1C 0.2 nozzle;PolyTerra PLA @Arena X1C"
+}
