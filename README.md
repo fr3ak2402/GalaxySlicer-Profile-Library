@@ -1,4 +1,4 @@
-# OrcaSlicer-Profile-Library
+# OrcaSlicer Profile Library
 
 All printer profiles for the OrcaSlicer are stored in this library. All profiles are managed here and new profiles are added. In addition, the fixes of the profiles are imported into the library.
 
