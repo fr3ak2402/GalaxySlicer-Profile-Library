@@ -3,8 +3,8 @@
     "inherits": "fdm_process_common",
     "instantiation": "true",
     "compatible_printers": [
-        "Snapmaker A250 0.4 nozzle",
-        "Snapmaker A350 0.4 nozzle"
+        "Snapmaker A250 (0.4 nozzle)",
+        "Snapmaker A350 (0.4 nozzle)"
     ],
     "type": "process",
     "from": "system",

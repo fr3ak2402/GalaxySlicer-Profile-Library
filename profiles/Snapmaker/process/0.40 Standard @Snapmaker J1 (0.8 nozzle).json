@@ -3,7 +3,7 @@
     "inherits": "fdm_process_idex",
     "instantiation": "true",
     "compatible_printers": [
-        "Snapmaker J1 0.8 nozzle"
+        "Snapmaker J1 (0.8 nozzle)"
     ],
     "type": "process",
     "from": "system",
@@ -35,6 +35,6 @@
     "overhang_4_4_speed": "5",
     "ironing_speed": "30",
     "small_perimeter_speed": "35",
-    "support_interface_speed": "10",
+    "support_interface_speed": "35",
     "support_speed": "100"
 }

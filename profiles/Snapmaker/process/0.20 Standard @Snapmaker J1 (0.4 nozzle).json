@@ -3,7 +3,7 @@
     "inherits": "fdm_process_idex",
     "instantiation": "true",
     "compatible_printers": [
-        "Snapmaker J1 0.4 nozzle"
+        "Snapmaker J1 (0.4 nozzle)"
     ],
     "type": "process",
     "from": "system",
@@ -24,7 +24,7 @@
     "top_surface_speed": "160",
     "gap_infill_speed": "160",
     "support_speed": "100",
-    "support_interface_speed": "10",
+    "support_interface_speed": "50",
     "ironing_speed": "30",
     "enable_overhang_speed": "1",
     "overhang_speed_classic": "0",

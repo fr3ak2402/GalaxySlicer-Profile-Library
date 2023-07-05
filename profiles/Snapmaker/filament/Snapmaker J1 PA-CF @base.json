@@ -6,41 +6,29 @@
     "required_nozzle_HRC": [
         "40"
     ],
-    "filament_density": [
-        "1.09"
-    ],
     "filament_flow_ratio": [
-        "0.96"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "290"
+        "0.94"
     ],
     "overhang_fan_threshold": [
         "0%"
     ],
     "overhang_fan_speed": [
-        "40"
+        "60"
     ],
     "filament_type": [
         "PA-CF"
-    ],
-    "nozzle_temperature": [
-        "290"
     ],
     "filament_max_volumetric_speed": [
         "8"
     ],
     "fan_max_speed": [
-        "30"
+        "55"
     ],
     "fan_min_speed": [
-        "10"
+        "25"
     ],
     "fan_cooling_layer_time": [
         "5"
-    ],
-    "full_fan_speed_layer": [
-        "2"
     ],
     "type": "filament",
     "from": "system"

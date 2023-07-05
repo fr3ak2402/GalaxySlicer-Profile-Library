@@ -3,8 +3,8 @@
     "inherits": "fdm_process_common",
     "instantiation": "true",
     "compatible_printers": [
-        "Snapmaker A250 0.2 nozzle",
-        "Snapmaker A350 0.2 nozzle"
+        "Snapmaker A250 (0.2 nozzle)",
+        "Snapmaker A350 (0.2 nozzle)"
     ],
     "type": "process",
     "from": "system",
@@ -33,7 +33,7 @@
     "ironing_speed": "30",
     "outer_wall_speed": "100",
     "small_perimeter_speed": "35",
-    "support_interface_speed": "10",
+    "support_interface_speed": "40",
     "support_speed": "100",
     "travel_speed": "110",
     "overhang_1_4_speed": "60",

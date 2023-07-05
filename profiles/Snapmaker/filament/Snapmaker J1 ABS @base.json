@@ -9,17 +9,14 @@
     "filament_max_volumetric_speed": [
         "22"
     ],
-    "nozzle_temperature": [
-        "270"
-    ],
     "fan_min_speed": [
-        "10"
+        "15"
     ],
     "fan_max_speed": [
-        "25"
+        "29"
     ],
     "overhang_fan_speed": [
-        "25"
+        "29"
     ],
     "type": "filament",
     "from": "system"

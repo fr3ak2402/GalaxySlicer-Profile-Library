@@ -4,16 +4,16 @@
     "setting_id": "SMFS81",
     "inherits": "Snapmaker J1 PVA @base",
     "compatible_printers": [
-        "Snapmaker J1 0.2 nozzle"
+        "Snapmaker J1 (0.2 nozzle)"
     ],
     "filament_max_volumetric_speed": [
-        "0.5"
+        "1.2"
     ],
     "nozzle_temperature_initial_layer": [
-        "240"
+        "220"
     ],
     "nozzle_temperature": [
-        "240"
+        "220"
     ],
     "type": "filament",
     "from": "system"
