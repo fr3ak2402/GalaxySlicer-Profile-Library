@@ -1,8 +1,8 @@
-# OrcaSlicer Profile Library
+# GalaxySlicer Profile Library
 
-All printer profiles for the OrcaSlicer are stored in this library. All profiles are managed here and new profiles are added. In addition, the fixes of the profiles are imported into the library.
+All printer profiles for the GalaxySlicer are stored in this library. All profiles are managed here and new profiles are added. In addition, the fixes of the profiles are imported into the library.
 
-The library is linked to the Profile Manger of the OrcaSlicer, so that all profiles can be synchronized and are compatible with all OrcaSlicer versions that support the Profile Manger.
+The library is linked to the Profile Manger of the GalaxySlicer, so that all profiles can be synchronized and are compatible with all GalaxySlicer versions that support the Profile Manger.
 
 **For a version that does not support the Profile Manager, the profiles themselves must be copied to the resource folder of the installation directory and existing profiles must be customized.**
 
