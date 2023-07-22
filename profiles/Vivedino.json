@@ -305,44 +305,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
         {
-            "name": "Vivedino Generic PLA",
-            "sub_path": "filament/Vivedino Generic PLA.json"
+            "name": "Vivedino Generic PLA @base",
+            "sub_path": "filament/Vivedino Generic PLA @base.json"
         },
         {
-            "name": "Vivedino Generic PLA-CF",
-            "sub_path": "filament/Vivedino Generic PLA-CF.json"
+            "name": "Vivedino Generic PLA-CF @base",
+            "sub_path": "filament/Vivedino Generic PLA-CF @base.json"
         },
         {
-            "name": "Vivedino Generic PETG",
-            "sub_path": "filament/Vivedino Generic PETG.json"
+            "name": "Vivedino Generic PETG @base",
+            "sub_path": "filament/Vivedino Generic PETG @base.json"
         },
         {
-            "name": "Vivedino Generic ABS",
-            "sub_path": "filament/Vivedino Generic ABS.json"
+            "name": "Vivedino Generic ABS @base",
+            "sub_path": "filament/Vivedino Generic ABS @base.json"
         },
         {
-            "name": "Vivedino Generic TPU",
-            "sub_path": "filament/Vivedino Generic TPU.json"
+            "name": "Vivedino Generic TPU @base",
+            "sub_path": "filament/Vivedino Generic TPU @base.json"
         },
         {
-            "name": "Vivedino Generic ASA",
-            "sub_path": "filament/Vivedino Generic ASA.json"
+            "name": "Vivedino Generic ASA @base",
+            "sub_path": "filament/Vivedino Generic ASA @base.json"
         },
         {
-            "name": "Vivedino Generic PC",
-            "sub_path": "filament/Vivedino Generic PC.json"
+            "name": "Vivedino Generic PC @base",
+            "sub_path": "filament/Vivedino Generic PC @base.json"
         },
         {
-            "name": "Vivedino Generic PVA",
-            "sub_path": "filament/Vivedino Generic PVA.json"
+            "name": "Vivedino Generic PVA @base",
+            "sub_path": "filament/Vivedino Generic PVA @base.json"
         },
         {
-            "name": "Vivedino Generic PA",
-            "sub_path": "filament/Vivedino Generic PA.json"
+            "name": "Vivedino Generic PA @base",
+            "sub_path": "filament/Vivedino Generic PA @base.json"
         },
         {
-            "name": "Vivedino Generic PA-CF",
-            "sub_path": "filament/Vivedino Generic PA-CF.json"
+            "name": "Vivedino Generic PA-CF @base",
+            "sub_path": "filament/Vivedino Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

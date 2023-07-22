@@ -333,44 +333,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
         {
-            "name": "Vzbot Generic PLA",
-            "sub_path": "filament/Vzbot Generic PLA.json"
+            "name": "Vzbot Generic PLA @base",
+            "sub_path": "filament/Vzbot Generic PLA @base.json"
         },
         {
-            "name": "Vzbot Generic PLA-CF",
-            "sub_path": "filament/Vzbot Generic PLA-CF.json"
+            "name": "Vzbot Generic PLA-CF @base",
+            "sub_path": "filament/Vzbot Generic PLA-CF @base.json"
         },
         {
-            "name": "Vzbot Generic PETG",
-            "sub_path": "filament/Vzbot Generic PETG.json"
+            "name": "Vzbot Generic PETG @base",
+            "sub_path": "filament/Vzbot Generic PETG @base.json"
         },
         {
-            "name": "Vzbot Generic ABS",
-            "sub_path": "filament/Vzbot Generic ABS.json"
+            "name": "Vzbot Generic ABS @base",
+            "sub_path": "filament/Vzbot Generic ABS @base.json"
         },
         {
-            "name": "Vzbot Generic TPU",
-            "sub_path": "filament/Vzbot Generic TPU.json"
+            "name": "Vzbot Generic TPU @base",
+            "sub_path": "filament/Vzbot Generic TPU @base.json"
         },
         {
-            "name": "Vzbot Generic ASA",
-            "sub_path": "filament/Vzbot Generic ASA.json"
+            "name": "Vzbot Generic ASA @base",
+            "sub_path": "filament/Vzbot Generic ASA @base.json"
         },
         {
-            "name": "Vzbot Generic PC",
-            "sub_path": "filament/Vzbot Generic PC.json"
+            "name": "Vzbot Generic PC @base",
+            "sub_path": "filament/Vzbot Generic PC @base.json"
         },
         {
-            "name": "Vzbot Generic PVA",
-            "sub_path": "filament/Vzbot Generic PVA.json"
+            "name": "Vzbot Generic PVA @base",
+            "sub_path": "filament/Vzbot Generic PVA @base.json"
         },
         {
-            "name": "Vzbot Generic PA",
-            "sub_path": "filament/Vzbot Generic PA.json"
+            "name": "Vzbot Generic PA @base",
+            "sub_path": "filament/Vzbot Generic PA @base.json"
         },
         {
-            "name": "Vzbot Generic PA-CF",
-            "sub_path": "filament/Vzbot Generic PA-CF.json"
+            "name": "Vzbot Generic PA-CF @base",
+            "sub_path": "filament/Vzbot Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

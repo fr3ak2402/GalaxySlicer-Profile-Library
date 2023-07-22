@@ -118,16 +118,16 @@
             "sub_path": "filament/fdm_filament_pla.json"
         },
         {
-            "name": "Lotmaxx Generic ABS",
-            "sub_path": "filament/Lotmaxx Generic ABS.json"
+            "name": "Lotmaxx Generic ABS @base",
+            "sub_path": "filament/Lotmaxx Generic ABS @base.json"
         },
         {
-            "name": "Lotmaxx Generic PETG",
-            "sub_path": "filament/Lotmaxx Generic PETG.json"
+            "name": "Lotmaxx Generic PETG @base",
+            "sub_path": "filament/Lotmaxx Generic PETG @base.json"
         },
         {
-            "name": "Lotmaxx Generic PLA",
-            "sub_path": "filament/Lotmaxx Generic PLA.json"
+            "name": "Lotmaxx Generic PLA @base",
+            "sub_path": "filament/Lotmaxx Generic PLA @base.json"
         }
     ],
     "machine_list": [

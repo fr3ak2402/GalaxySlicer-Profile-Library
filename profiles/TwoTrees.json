@@ -173,44 +173,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
 		        {
-            "name": "TwoTrees Generic PLA",
-            "sub_path": "filament/TwoTrees Generic PLA.json"
+            "name": "TwoTrees Generic PLA @base",
+            "sub_path": "filament/TwoTrees Generic PLA @base.json"
         },
         {
-            "name": "TwoTrees Generic PLA-CF",
-            "sub_path": "filament/TwoTrees Generic PLA-CF.json"
+            "name": "TwoTrees Generic PLA-CF @base",
+            "sub_path": "filament/TwoTrees Generic PLA-CF @base.json"
         },
         {
-            "name": "TwoTrees Generic PETG",
-            "sub_path": "filament/TwoTrees Generic PETG.json"
+            "name": "TwoTrees Generic PETG @base",
+            "sub_path": "filament/TwoTrees Generic PETG @base.json"
         },
         {
-            "name": "TwoTrees Generic ABS",
-            "sub_path": "filament/TwoTrees Generic ABS.json"
+            "name": "TwoTrees Generic ABS @base",
+            "sub_path": "filament/TwoTrees Generic ABS @base.json"
         },
         {
-            "name": "TwoTrees Generic TPU",
-            "sub_path": "filament/TwoTrees Generic TPU.json"
+            "name": "TwoTrees Generic TPU @base",
+            "sub_path": "filament/TwoTrees Generic TPU @base.json"
         },
         {
-            "name": "TwoTrees Generic ASA",
-            "sub_path": "filament/TwoTrees Generic ASA.json"
+            "name": "TwoTrees Generic ASA @base",
+            "sub_path": "filament/TwoTrees Generic ASA @base.json"
         },
         {
-            "name": "TwoTrees Generic PC",
-            "sub_path": "filament/TwoTrees Generic PC.json"
+            "name": "TwoTrees Generic PC @base",
+            "sub_path": "filament/TwoTrees Generic PC @base.json"
         },
         {
-            "name": "TwoTrees Generic PVA",
-            "sub_path": "filament/TwoTrees Generic PVA.json"
+            "name": "TwoTrees Generic PVA @base",
+            "sub_path": "filament/TwoTrees Generic PVA @base.json"
         },
         {
-            "name": "TwoTrees Generic PA",
-            "sub_path": "filament/TwoTrees Generic PA.json"
+            "name": "TwoTrees Generic PA @base",
+            "sub_path": "filament/TwoTrees Generic PA @base.json"
         },
         {
-            "name": "TwoTrees Generic PA-CF",
-            "sub_path": "filament/TwoTrees Generic PA-CF.json"
+            "name": "TwoTrees Generic PA-CF @base",
+            "sub_path": "filament/TwoTrees Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

@@ -94,16 +94,16 @@
             "sub_path": "filament/fdm_filament_pla.json"
         },
         {
-            "name": "UltiMaker Generic ABS",
-            "sub_path": "filament/UltiMaker Generic ABS.json"
+            "name": "UltiMaker Generic ABS @base",
+            "sub_path": "filament/UltiMaker Generic ABS @base.json"
         },
         {
-            "name": "UltiMaker Generic PETG",
-            "sub_path": "filament/UltiMaker Generic PETG.json"
+            "name": "UltiMaker Generic PETG @base",
+            "sub_path": "filament/UltiMaker Generic PETG @base.json"
         },
         {
-            "name": "UltiMaker Generic PLA",
-            "sub_path": "filament/UltiMaker Generic PLA.json"
+            "name": "UltiMaker Generic PLA @base",
+            "sub_path": "filament/UltiMaker Generic PLA @base.json"
         }
     ],
     "machine_list": [

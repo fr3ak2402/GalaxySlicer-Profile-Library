@@ -98,44 +98,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
         {
-            "name": "Prusa Generic PLA",
-            "sub_path": "filament/Prusa Generic PLA.json"
+            "name": "Prusa Generic PLA @base",
+            "sub_path": "filament/Prusa Generic PLA @base.json"
         },
         {
-            "name": "Prusa Generic PLA-CF",
-            "sub_path": "filament/Prusa Generic PLA-CF.json"
+            "name": "Prusa Generic PLA-CF @base",
+            "sub_path": "filament/Prusa Generic PLA-CF @base.json"
         },
         {
-            "name": "Prusa Generic PETG",
-            "sub_path": "filament/Prusa Generic PETG.json"
+            "name": "Prusa Generic PETG @base",
+            "sub_path": "filament/Prusa Generic PETG @base.json"
         },
         {
-            "name": "Prusa Generic ABS",
-            "sub_path": "filament/Prusa Generic ABS.json"
+            "name": "Prusa Generic ABS @base",
+            "sub_path": "filament/Prusa Generic ABS @base.json"
         },
         {
-            "name": "Prusa Generic TPU",
-            "sub_path": "filament/Prusa Generic TPU.json"
+            "name": "Prusa Generic TPU @base",
+            "sub_path": "filament/Prusa Generic TPU @base.json"
         },
         {
-            "name": "Prusa Generic ASA",
-            "sub_path": "filament/Prusa Generic ASA.json"
+            "name": "Prusa Generic ASA @base",
+            "sub_path": "filament/Prusa Generic ASA @base.json"
         },
         {
-            "name": "Prusa Generic PC",
-            "sub_path": "filament/Prusa Generic PC.json"
+            "name": "Prusa Generic PC @base",
+            "sub_path": "filament/Prusa Generic PC @base.json"
         },
         {
-            "name": "Prusa Generic PVA",
-            "sub_path": "filament/Prusa Generic PVA.json"
+            "name": "Prusa Generic PVA @base",
+            "sub_path": "filament/Prusa Generic PVA @base.json"
         },
         {
-            "name": "Prusa Generic PA",
-            "sub_path": "filament/Prusa Generic PA.json"
+            "name": "Prusa Generic PA @base",
+            "sub_path": "filament/Prusa Generic PA @base.json"
         },
         {
-            "name": "Prusa Generic PA-CF",
-            "sub_path": "filament/Prusa Generic PA-CF.json"
+            "name": "Prusa Generic PA-CF @base",
+            "sub_path": "filament/Prusa Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

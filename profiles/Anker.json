@@ -73,44 +73,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
         {
-            "name": "Anker Generic PLA",
-            "sub_path": "filament/Anker Generic PLA.json"
+            "name": "Anker Generic PLA @base",
+            "sub_path": "filament/Anker Generic PLA @base.json"
         },
         {
-            "name": "Anker Generic PLA-CF",
-            "sub_path": "filament/Anker Generic PLA-CF.json"
+            "name": "Anker Generic PLA-CF @base",
+            "sub_path": "filament/Anker Generic PLA-CF @base.json"
         },
         {
-            "name": "Anker Generic PETG",
-            "sub_path": "filament/Anker Generic PETG.json"
+            "name": "Anker Generic PETG @base",
+            "sub_path": "filament/Anker Generic PETG @base.json"
         },
         {
-            "name": "Anker Generic ABS",
-            "sub_path": "filament/Anker Generic ABS.json"
+            "name": "Anker Generic ABS @base",
+            "sub_path": "filament/Anker Generic ABS @base.json"
         },
         {
-            "name": "Anker Generic TPU",
-            "sub_path": "filament/Anker Generic TPU.json"
+            "name": "Anker Generic TPU @base",
+            "sub_path": "filament/Anker Generic TPU @base.json"
         },
         {
-            "name": "Anker Generic ASA",
-            "sub_path": "filament/Anker Generic ASA.json"
+            "name": "Anker Generic ASA @base",
+            "sub_path": "filament/Anker Generic ASA @base.json"
         },
         {
-            "name": "Anker Generic PC",
-            "sub_path": "filament/Anker Generic PC.json"
+            "name": "Anker Generic PC @base",
+            "sub_path": "filament/Anker Generic PC @base.json"
         },
         {
-            "name": "Anker Generic PVA",
-            "sub_path": "filament/Anker Generic PVA.json"
+            "name": "Anker Generic PVA @base",
+            "sub_path": "filament/Anker Generic PVA @base.json"
         },
         {
-            "name": "Anker Generic PA",
-            "sub_path": "filament/Anker Generic PA.json"
+            "name": "Anker Generic PA @base",
+            "sub_path": "filament/Anker Generic PA @base.json"
         },
         {
-            "name": "Anker Generic PA-CF",
-            "sub_path": "filament/Anker Generic PA-CF.json"
+            "name": "Anker Generic PA-CF @base",
+            "sub_path": "filament/Anker Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

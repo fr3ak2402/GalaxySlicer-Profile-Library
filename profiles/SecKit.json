@@ -341,44 +341,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
         {
-            "name": "SecKit Generic PLA",
-            "sub_path": "filament/SecKit Generic PLA.json"
+            "name": "SecKit Generic PLA @base",
+            "sub_path": "filament/SecKit Generic PLA @base.json"
         },
         {
-            "name": "SecKit Generic PLA-CF",
-            "sub_path": "filament/SecKit Generic PLA-CF.json"
+            "name": "SecKit Generic PLA-CF @base",
+            "sub_path": "filament/SecKit Generic PLA-CF @base.json"
         },
         {
-            "name": "SecKit Generic PETG",
-            "sub_path": "filament/SecKit Generic PETG.json"
+            "name": "SecKit Generic PETG @base",
+            "sub_path": "filament/SecKit Generic PETG @base.json"
         },
         {
-            "name": "SecKit Generic ABS",
-            "sub_path": "filament/SecKit Generic ABS.json"
+            "name": "SecKit Generic ABS @base",
+            "sub_path": "filament/SecKit Generic ABS @base.json"
         },
         {
-            "name": "SecKit Generic TPU",
-            "sub_path": "filament/SecKit Generic TPU.json"
+            "name": "SecKit Generic TPU @base",
+            "sub_path": "filament/SecKit Generic TPU @base.json"
         },
         {
-            "name": "SecKit Generic ASA",
-            "sub_path": "filament/SecKit Generic ASA.json"
+            "name": "SecKit Generic ASA @base",
+            "sub_path": "filament/SecKit Generic ASA @base.json"
         },
         {
-            "name": "SecKit Generic PC",
-            "sub_path": "filament/SecKit Generic PC.json"
+            "name": "SecKit Generic PC @base",
+            "sub_path": "filament/SecKit Generic PC @base.json"
         },
         {
-            "name": "SecKit Generic PVA",
-            "sub_path": "filament/SecKit Generic PVA.json"
+            "name": "SecKit Generic PVA @base",
+            "sub_path": "filament/SecKit Generic PVA @base.json"
         },
         {
-            "name": "SecKit Generic PA",
-            "sub_path": "filament/SecKit Generic PA.json"
+            "name": "SecKit Generic PA @base",
+            "sub_path": "filament/SecKit Generic PA @base.json"
         },
         {
-            "name": "SecKit Generic PA-CF",
-            "sub_path": "filament/SecKit Generic PA-CF.json"
+            "name": "SecKit Generic PA-CF @base",
+            "sub_path": "filament/SecKit Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

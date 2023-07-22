@@ -797,44 +797,44 @@
             "sub_path": "filament/fdm_filament_pa.json"
         },
         {
-            "name": "RatRig Generic PLA",
-            "sub_path": "filament/RatRig Generic PLA.json"
+            "name": "RatRig Generic PLA @base",
+            "sub_path": "filament/RatRig Generic PLA @base.json"
         },
         {
-            "name": "RatRig Generic PLA-CF",
-            "sub_path": "filament/RatRig Generic PLA-CF.json"
+            "name": "RatRig Generic PLA-CF @base",
+            "sub_path": "filament/RatRig Generic PLA-CF @base.json"
         },
         {
-            "name": "RatRig Generic PETG",
-            "sub_path": "filament/RatRig Generic PETG.json"
+            "name": "RatRig Generic PETG @base",
+            "sub_path": "filament/RatRig Generic PETG @base.json"
         },
         {
-            "name": "RatRig Generic ABS",
-            "sub_path": "filament/RatRig Generic ABS.json"
+            "name": "RatRig Generic ABS @base",
+            "sub_path": "filament/RatRig Generic ABS @base.json"
         },
         {
-            "name": "RatRig Generic TPU",
-            "sub_path": "filament/RatRig Generic TPU.json"
+            "name": "RatRig Generic TPU @base",
+            "sub_path": "filament/RatRig Generic TPU @base.json"
         },
         {
-            "name": "RatRig Generic ASA",
-            "sub_path": "filament/RatRig Generic ASA.json"
+            "name": "RatRig Generic ASA @base",
+            "sub_path": "filament/RatRig Generic ASA @base.json"
         },
         {
-            "name": "RatRig Generic PC",
-            "sub_path": "filament/RatRig Generic PC.json"
+            "name": "RatRig Generic PC @base",
+            "sub_path": "filament/RatRig Generic PC @base.json"
         },
         {
-            "name": "RatRig Generic PVA",
-            "sub_path": "filament/RatRig Generic PVA.json"
+            "name": "RatRig Generic PVA @base",
+            "sub_path": "filament/RatRig Generic PVA @base.json"
         },
         {
-            "name": "RatRig Generic PA",
-            "sub_path": "filament/RatRig Generic PA.json"
+            "name": "RatRig Generic PA @base",
+            "sub_path": "filament/RatRig Generic PA @base.json"
         },
         {
-            "name": "RatRig Generic PA-CF",
-            "sub_path": "filament/RatRig Generic PA-CF.json"
+            "name": "RatRig Generic PA-CF @base",
+            "sub_path": "filament/RatRig Generic PA-CF @base.json"
         }
     ],
     "machine_list": [

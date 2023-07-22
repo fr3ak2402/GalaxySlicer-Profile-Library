@@ -253,28 +253,28 @@
             "sub_path": "filament/fdm_filament_asa.json"
         },
         {
-            "name": "Artillery Generic PLA",
-            "sub_path": "filament/Artillery Generic PLA.json"
+            "name": "Artillery Generic PLA @base",
+            "sub_path": "filament/Artillery Generic PLA @base.json"
         },
         {
-            "name": "Artillery Generic PLA-CF",
-            "sub_path": "filament/Artillery Generic PLA-CF.json"
+            "name": "Artillery Generic PLA-CF @base",
+            "sub_path": "filament/Artillery Generic PLA-CF @base.json"
         },
         {
-            "name": "Artillery Generic PETG",
-            "sub_path": "filament/Artillery Generic PETG.json"
+            "name": "Artillery Generic PETG @base",
+            "sub_path": "filament/Artillery Generic PETG @base.json"
         },
         {
-            "name": "Artillery Generic ABS",
-            "sub_path": "filament/Artillery Generic ABS.json"
+            "name": "Artillery Generic ABS @base",
+            "sub_path": "filament/Artillery Generic ABS @base.json"
         },
         {
-            "name": "Artillery Generic TPU",
-            "sub_path": "filament/Artillery Generic TPU.json"
+            "name": "Artillery Generic TPU @base",
+            "sub_path": "filament/Artillery Generic TPU @base.json"
         },
         {
-            "name": "Artillery Generic ASA",
-            "sub_path": "filament/Artillery Generic ASA.json"
+            "name": "Artillery Generic ASA @base",
+            "sub_path": "filament/Artillery Generic ASA @base.json"
         }
     ],
     "machine_list": [

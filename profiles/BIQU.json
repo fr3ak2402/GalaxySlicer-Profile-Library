@@ -309,52 +309,52 @@
             "sub_path": "filament/fdm_filament_tpu.json"
         },
         {
-            "name": "BIQU Generic ABS",
-            "sub_path": "filament/BIQU Generic ABS.json"
+            "name": "BIQU Generic ABS @base",
+            "sub_path": "filament/BIQU Generic ABS @base.json"
         },
         {
-            "name": "BIQU Generic ASA",
-            "sub_path": "filament/BIQU Generic ASA.json"
+            "name": "BIQU Generic ASA @base",
+            "sub_path": "filament/BIQU Generic ASA @base.json"
         },
         {
-            "name": "BIQU Generic PA",
-            "sub_path": "filament/BIQU Generic PA.json"
+            "name": "BIQU Generic PA @base",
+            "sub_path": "filament/BIQU Generic PA @base.json"
         },
 		{
-            "name": "BIQU Generic PA-CF",
-            "sub_path": "filament/BIQU Generic PA-CF.json"
+            "name": "BIQU Generic PA-CF @base",
+            "sub_path": "filament/BIQU Generic PA-CF @base.json"
         },
         {
-            "name": "BIQU Generic PC",
-            "sub_path": "filament/BIQU Generic PC.json"
+            "name": "BIQU Generic PC @base",
+            "sub_path": "filament/BIQU Generic PC @base.json"
         },
         {
-            "name": "BIQU Generic PETG",
-            "sub_path": "filament/BIQU Generic PETG.json"
+            "name": "BIQU Generic PETG @base",
+            "sub_path": "filament/BIQU Generic PETG @base.json"
         },
 		{
-            "name": "BIQU Generic PETG-CF",
-            "sub_path": "filament/BIQU Generic PETG-CF.json"
+            "name": "BIQU Generic PETG-CF @base",
+            "sub_path": "filament/BIQU Generic PETG-CF @base.json"
         },
         {
-            "name": "BIQU Generic PLA Silk",
-            "sub_path": "filament/BIQU Generic PLA Silk.json"
+            "name": "BIQU Generic PLA Silk @base",
+            "sub_path": "filament/BIQU Generic PLA Silk @base.json"
         },
         {
-            "name": "BIQU Generic PLA",
-            "sub_path": "filament/BIQU Generic PLA.json"
+            "name": "BIQU Generic PLA @base",
+            "sub_path": "filament/BIQU Generic PLA @base.json"
         },
 		{
-            "name": "BIQU Generic PLA-CF",
-            "sub_path": "filament/BIQU Generic PLA-CF.json"
+            "name": "BIQU Generic PLA-CF @base",
+            "sub_path": "filament/BIQU Generic PLA-CF @base.json"
         },
         {
-            "name": "BIQU Generic PVA",
-            "sub_path": "filament/BIQU Generic PVA.json"
+            "name": "BIQU Generic PVA @base",
+            "sub_path": "filament/BIQU Generic PVA @base.json"
         },
         {
-            "name": "BIQU Generic TPU",
-            "sub_path": "filament/BIQU Generic TPU.json"
+            "name": "BIQU Generic TPU @base",
+            "sub_path": "filament/BIQU Generic TPU @base.json"
         }
     ],
     "machine_list": [

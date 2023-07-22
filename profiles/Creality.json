@@ -717,16 +717,16 @@
             "sub_path": "filament/fdm_filament_abs.json"
         },
         {
-            "name": "Creality Generic PLA",
-            "sub_path": "filament/Creality Generic PLA.json"
+            "name": "Creality Generic PLA @base",
+            "sub_path": "filament/Creality Generic PLA @base.json"
         },
         {
-            "name": "Creality Generic PETG",
-            "sub_path": "filament/Creality Generic PETG.json"
+            "name": "Creality Generic PETG @base",
+            "sub_path": "filament/Creality Generic PETG @base.json"
         },
         {
-            "name": "Creality Generic ABS",
-            "sub_path": "filament/Creality Generic ABS.json"
+            "name": "Creality Generic ABS @base",
+            "sub_path": "filament/Creality Generic ABS @base.json"
         }
     ],
     "machine_list": [

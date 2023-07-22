@@ -250,16 +250,16 @@
             "sub_path": "filament/fdm_filament_pla.json"
         },
         {
-            "name": "Sovol Generic ABS",
-            "sub_path": "filament/Sovol Generic ABS.json"
+            "name": "Sovol Generic ABS @base",
+            "sub_path": "filament/Sovol Generic ABS @base.json"
         },
         {
-            "name": "Sovol Generic PETG",
-            "sub_path": "filament/Sovol Generic PETG.json"
+            "name": "Sovol Generic PETG @base",
+            "sub_path": "filament/Sovol Generic PETG @base.json"
         },
         {
-            "name": "Sovol Generic PLA",
-            "sub_path": "filament/Sovol Generic PLA.json"
+            "name": "Sovol Generic PLA @base",
+            "sub_path": "filament/Sovol Generic PLA @base.json"
         }
     ],
     "machine_list": [

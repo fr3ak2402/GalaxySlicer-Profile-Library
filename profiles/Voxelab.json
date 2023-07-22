@@ -118,16 +118,16 @@
             "sub_path": "filament/fdm_filament_pla.json"
         },
         {
-            "name": "Voxelab Generic ABS",
-            "sub_path": "filament/Voxelab Generic ABS.json"
+            "name": "Voxelab Generic ABS @base",
+            "sub_path": "filament/Voxelab Generic ABS @base.json"
         },
         {
-            "name": "Voxelab Generic PETG",
-            "sub_path": "filament/Voxelab Generic PETG.json"
+            "name": "Voxelab Generic PETG @base",
+            "sub_path": "filament/Voxelab Generic PETG @base.json"
         },
         {
-            "name": "Voxelab Generic PLA",
-            "sub_path": "filament/Voxelab Generic PLA.json"
+            "name": "Voxelab Generic PLA @base",
+            "sub_path": "filament/Voxelab Generic PLA @base.json"
         }
     ],
     "machine_list": [
