@@ -721,12 +721,72 @@
             "sub_path": "filament/Creality Generic PLA @base.json"
         },
         {
+            "name": "Creality Generic PLA @0.2 nozzle",
+            "sub_path": "filament/Creality Generic PLA @0.2 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PLA @0.4 nozzle",
+            "sub_path": "filament/Creality Generic PLA @0.4 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PLA @0.5 nozzle",
+            "sub_path": "filament/Creality Generic PLA @0.5 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PLA @0.6 nozzle",
+            "sub_path": "filament/Creality Generic PLA @0.6 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PLA @0.8 nozzle",
+            "sub_path": "filament/Creality Generic PLA @0.8 nozzle.json"
+        },
+        {
             "name": "Creality Generic PETG @base",
             "sub_path": "filament/Creality Generic PETG @base.json"
         },
         {
+            "name": "Creality Generic PETG @0.2 nozzle",
+            "sub_path": "filament/Creality Generic PETG @0.2 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PETG @0.4 nozzle",
+            "sub_path": "filament/Creality Generic PETG @0.4 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PETG @0.5 nozzle",
+            "sub_path": "filament/Creality Generic PETG @0.5 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PETG @0.6 nozzle",
+            "sub_path": "filament/Creality Generic PETG @0.6 nozzle.json"
+        },
+        {
+            "name": "Creality Generic PETG @0.8 nozzle",
+            "sub_path": "filament/Creality Generic PETG @0.8 nozzle.json"
+        },
+        {
             "name": "Creality Generic ABS @base",
             "sub_path": "filament/Creality Generic ABS @base.json"
+        },
+        {
+            "name": "Creality Generic ABS @0.2 nozzle",
+            "sub_path": "filament/Creality Generic ABS @0.2 nozzle.json"
+        },
+        {
+            "name": "Creality Generic ABS @0.4 nozzle",
+            "sub_path": "filament/Creality Generic ABS @0.4 nozzle.json"
+        },
+        {
+            "name": "Creality Generic ABS @0.5 nozzle",
+            "sub_path": "filament/Creality Generic ABS @0.5 nozzle.json"
+        },
+        {
+            "name": "Creality Generic ABS @0.6 nozzle",
+            "sub_path": "filament/Creality Generic ABS @0.6 nozzle.json"
+        },
+        {
+            "name": "Creality Generic ABS @0.8 nozzle",
+            "sub_path": "filament/Creality Generic ABS @0.8 nozzle.json"
         }
     ],
     "machine_list": [

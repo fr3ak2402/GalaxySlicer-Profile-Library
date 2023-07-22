@@ -309,40 +309,240 @@
             "sub_path": "filament/Vivedino Generic PLA @base.json"
         },
         {
+            "name": "Vivedino Generic PLA @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA @0.8 nozzle.json"
+        },
+        {
             "name": "Vivedino Generic PLA-CF @base",
             "sub_path": "filament/Vivedino Generic PLA-CF @base.json"
+        },
+        {
+            "name": "Vivedino Generic PLA-CF @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA-CF @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA-CF @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA-CF @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA-CF @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA-CF @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA-CF @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA-CF @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PLA-CF @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PLA-CF @0.8 nozzle.json"
         },
         {
             "name": "Vivedino Generic PETG @base",
             "sub_path": "filament/Vivedino Generic PETG @base.json"
         },
         {
+            "name": "Vivedino Generic PETG @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PETG @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PETG @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PETG @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PETG @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PETG @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PETG @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PETG @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PETG @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PETG @0.8 nozzle.json"
+        },
+        {
             "name": "Vivedino Generic ABS @base",
             "sub_path": "filament/Vivedino Generic ABS @base.json"
+        },
+        {
+            "name": "Vivedino Generic ABS @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic ABS @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ABS @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic ABS @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ABS @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic ABS @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ABS @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic ABS @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ABS @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic ABS @0.8 nozzle.json"
         },
         {
             "name": "Vivedino Generic TPU @base",
             "sub_path": "filament/Vivedino Generic TPU @base.json"
         },
         {
+            "name": "Vivedino Generic TPU @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic TPU @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic TPU @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic TPU @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic TPU @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic TPU @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic TPU @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic TPU @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic TPU @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic TPU @0.8 nozzle.json"
+        },
+        {
             "name": "Vivedino Generic ASA @base",
             "sub_path": "filament/Vivedino Generic ASA @base.json"
+        },
+        {
+            "name": "Vivedino Generic ASA @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic ASA @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ASA @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic ASA @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ASA @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic ASA @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ASA @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic ASA @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic ASA @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic ASA @0.8 nozzle.json"
         },
         {
             "name": "Vivedino Generic PC @base",
             "sub_path": "filament/Vivedino Generic PC @base.json"
         },
         {
+            "name": "Vivedino Generic PC @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PC @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PC @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PC @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PC @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PC @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PC @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PC @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PC @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PC @0.8 nozzle.json"
+        },
+        {
             "name": "Vivedino Generic PVA @base",
             "sub_path": "filament/Vivedino Generic PVA @base.json"
+        },
+        {
+            "name": "Vivedino Generic PVA @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PVA @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PVA @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PVA @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PVA @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PVA @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PVA @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PVA @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PVA @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PVA @0.8 nozzle.json"
         },
         {
             "name": "Vivedino Generic PA @base",
             "sub_path": "filament/Vivedino Generic PA @base.json"
         },
         {
+            "name": "Vivedino Generic PA @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PA @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PA @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PA @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PA @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PA @0.8 nozzle.json"
+        },
+        {
             "name": "Vivedino Generic PA-CF @base",
             "sub_path": "filament/Vivedino Generic PA-CF @base.json"
+        },
+        {
+            "name": "Vivedino Generic PA-CF @0.2 nozzle",
+            "sub_path": "filament/Vivedino Generic PA-CF @0.2 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA-CF @0.4 nozzle",
+            "sub_path": "filament/Vivedino Generic PA-CF @0.4 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA-CF @0.5 nozzle",
+            "sub_path": "filament/Vivedino Generic PA-CF @0.5 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA-CF @0.6 nozzle",
+            "sub_path": "filament/Vivedino Generic PA-CF @0.6 nozzle.json"
+        },
+        {
+            "name": "Vivedino Generic PA-CF @0.8 nozzle",
+            "sub_path": "filament/Vivedino Generic PA-CF @0.8 nozzle.json"
         }
     ],
     "machine_list": [
