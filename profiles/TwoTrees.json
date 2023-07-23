@@ -63,30 +63,6 @@
             "sub_path": "process/0.28mm Extra Draft @TwoTrees SP-5 (Klipper) (0.4 nozzle).json"
         },
         {
-            "name": "0.08mm Extra Fine @TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "process/0.08mm Extra Fine @TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
-        },
-        {
-            "name": "0.12mm Fine @TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
-        },
-        {
-            "name": "0.15mm Optimal @TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
-        },
-        {
-            "name": "0.24mm Draft @TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
-        },
-        {
-            "name": "0.28mm Extra Draft @TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "process/0.28mm Extra Draft @TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
-        },
-        {
             "name": "0.08mm Extra Fine @TwoTrees SP-5 (Klipper) (0.6 nozzle)",
             "sub_path": "process/0.08mm Extra Fine @TwoTrees SP-5 (Klipper) (0.6 nozzle).json"
         },
@@ -185,10 +161,6 @@
             "sub_path": "filament/TwoTrees Generic PLA @0.4 nozzle.json"
         },
         {
-            "name": "TwoTrees Generic PLA @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PLA @0.5 nozzle.json"
-        },
-        {
             "name": "TwoTrees Generic PLA @0.6 nozzle",
             "sub_path": "filament/TwoTrees Generic PLA @0.6 nozzle.json"
         },
@@ -207,10 +179,6 @@
         {
             "name": "TwoTrees Generic PLA-CF @0.4 nozzle",
             "sub_path": "filament/TwoTrees Generic PLA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "TwoTrees Generic PLA-CF @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PLA-CF @0.5 nozzle.json"
         },
         {
             "name": "TwoTrees Generic PLA-CF @0.6 nozzle",
@@ -233,10 +201,6 @@
             "sub_path": "filament/TwoTrees Generic PETG @0.4 nozzle.json"
         },
         {
-            "name": "TwoTrees Generic PETG @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PETG @0.5 nozzle.json"
-        },
-        {
             "name": "TwoTrees Generic PETG @0.6 nozzle",
             "sub_path": "filament/TwoTrees Generic PETG @0.6 nozzle.json"
         },
@@ -255,10 +219,6 @@
         {
             "name": "TwoTrees Generic ABS @0.4 nozzle",
             "sub_path": "filament/TwoTrees Generic ABS @0.4 nozzle.json"
-        },
-        {
-            "name": "TwoTrees Generic ABS @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic ABS @0.5 nozzle.json"
         },
         {
             "name": "TwoTrees Generic ABS @0.6 nozzle",
@@ -281,10 +241,6 @@
             "sub_path": "filament/TwoTrees Generic TPU @0.4 nozzle.json"
         },
         {
-            "name": "TwoTrees Generic TPU @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic TPU @0.5 nozzle.json"
-        },
-        {
             "name": "TwoTrees Generic TPU @0.6 nozzle",
             "sub_path": "filament/TwoTrees Generic TPU @0.6 nozzle.json"
         },
@@ -303,10 +259,6 @@
         {
             "name": "TwoTrees Generic ASA @0.4 nozzle",
             "sub_path": "filament/TwoTrees Generic ASA @0.4 nozzle.json"
-        },
-        {
-            "name": "TwoTrees Generic ASA @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic ASA @0.5 nozzle.json"
         },
         {
             "name": "TwoTrees Generic ASA @0.6 nozzle",
@@ -329,10 +281,6 @@
             "sub_path": "filament/TwoTrees Generic PC @0.4 nozzle.json"
         },
         {
-            "name": "TwoTrees Generic PC @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PC @0.5 nozzle.json"
-        },
-        {
             "name": "TwoTrees Generic PC @0.6 nozzle",
             "sub_path": "filament/TwoTrees Generic PC @0.6 nozzle.json"
         },
@@ -351,10 +299,6 @@
         {
             "name": "TwoTrees Generic PVA @0.4 nozzle",
             "sub_path": "filament/TwoTrees Generic PVA @0.4 nozzle.json"
-        },
-        {
-            "name": "TwoTrees Generic PVA @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PVA @0.5 nozzle.json"
         },
         {
             "name": "TwoTrees Generic PVA @0.6 nozzle",
@@ -377,10 +321,6 @@
             "sub_path": "filament/TwoTrees Generic PA @0.4 nozzle.json"
         },
         {
-            "name": "TwoTrees Generic PA @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PA @0.5 nozzle.json"
-        },
-        {
             "name": "TwoTrees Generic PA @0.6 nozzle",
             "sub_path": "filament/TwoTrees Generic PA @0.6 nozzle.json"
         },
@@ -399,10 +339,6 @@
         {
             "name": "TwoTrees Generic PA-CF @0.4 nozzle",
             "sub_path": "filament/TwoTrees Generic PA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "TwoTrees Generic PA-CF @0.5 nozzle",
-            "sub_path": "filament/TwoTrees Generic PA-CF @0.5 nozzle.json"
         },
         {
             "name": "TwoTrees Generic PA-CF @0.6 nozzle",
@@ -429,10 +365,6 @@
         {
             "name": "TwoTrees SP-5 (Klipper) (0.4 nozzle)",
             "sub_path": "machine/TwoTrees SP-5 (Klipper) (0.4 nozzle).json"
-        },
-        {
-            "name": "TwoTrees SP-5 (Klipper) (0.5 nozzle)",
-            "sub_path": "machine/TwoTrees SP-5 (Klipper) (0.5 nozzle).json"
         },
         {
             "name": "TwoTrees SP-5 (Klipper) (0.6 nozzle)",

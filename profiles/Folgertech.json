@@ -267,90 +267,6 @@
             "sub_path": "process/0.42mm Extra Draft @Folgertech FT-6 (0.6 nozzle).json"
         },
         {
-            "name": "0.08mm Extra Fine @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.08mm Extra Fine @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.08mm Extra Fine @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.08mm Extra Fine @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.08mm Extra Fine @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.08mm Extra Fine @Folgertech FT-6 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.12mm Fine @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.12mm Fine @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.12mm Fine @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @Folgertech FT-6 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.16mm Optimal @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.16mm Optimal @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.16mm Optimal @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.16mm Optimal @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.16mm Optimal @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.16mm Optimal @Folgertech FT-6 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Folgertech FT-6 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Strength @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Strength @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Strength @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Strength @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Strength @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Strength @Folgertech FT-6 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.24mm Draft @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.24mm Draft @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.24mm Draft @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @Folgertech FT-6 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.28mm Extra Draft @Folgertech i3 (0.5 nozzle)",
-            "sub_path": "process/0.28mm Extra Draft @Folgertech i3 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.28mm Extra Draft @Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "process/0.28mm Extra Draft @Folgertech FT-5 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.28mm Extra Draft @Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "process/0.28mm Extra Draft @Folgertech FT-6 (0.5 nozzle).json"
-        },
-        {
             "name": "0.18mm Fine @Folgertech i3 (0.8 nozzle)",
             "sub_path": "process/0.18mm Fine @Folgertech i3 (0.8 nozzle).json"
         },
@@ -473,10 +389,6 @@
             "sub_path": "filament/Folgertech Generic ABS @0.4 nozzle.json"
         },
         {
-            "name": "Folgertech Generic ABS @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic ABS @0.5 nozzle.json"
-        },
-        {
             "name": "Folgertech Generic ABS @0.6 nozzle",
             "sub_path": "filament/Folgertech Generic ABS @0.6 nozzle.json"
         },
@@ -495,10 +407,6 @@
         {
             "name": "Folgertech Generic ASA @0.4 nozzle",
             "sub_path": "filament/Folgertech Generic ASA @0.4 nozzle.json"
-        },
-        {
-            "name": "Folgertech Generic ASA @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic ASA @0.5 nozzle.json"
         },
         {
             "name": "Folgertech Generic ASA @0.6 nozzle",
@@ -521,10 +429,6 @@
             "sub_path": "filament/Folgertech Generic PA @0.4 nozzle.json"
         },
         {
-            "name": "Folgertech Generic PA @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PA @0.5 nozzle.json"
-        },
-        {
             "name": "Folgertech Generic PA @0.6 nozzle",
             "sub_path": "filament/Folgertech Generic PA @0.6 nozzle.json"
         },
@@ -543,10 +447,6 @@
         {
             "name": "Folgertech Generic PA-CF @0.4 nozzle",
             "sub_path": "filament/Folgertech Generic PA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "Folgertech Generic PA-CF @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PA-CF @0.5 nozzle.json"
         },
         {
             "name": "Folgertech Generic PA-CF @0.6 nozzle",
@@ -569,10 +469,6 @@
             "sub_path": "filament/Folgertech Generic PC @0.4 nozzle.json"
         },
         {
-            "name": "Folgertech Generic PC @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PC @0.5 nozzle.json"
-        },
-        {
             "name": "Folgertech Generic PC @0.6 nozzle",
             "sub_path": "filament/Folgertech Generic PC @0.6 nozzle.json"
         },
@@ -591,10 +487,6 @@
         {
             "name": "Folgertech Generic PETG @0.4 nozzle",
             "sub_path": "filament/Folgertech Generic PETG @0.4 nozzle.json"
-        },
-        {
-            "name": "Folgertech Generic PETG @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PETG @0.5 nozzle.json"
         },
         {
             "name": "Folgertech Generic PETG @0.6 nozzle",
@@ -617,10 +509,6 @@
             "sub_path": "filament/Folgertech Generic PETG-CF @0.4 nozzle.json"
         },
         {
-            "name": "Folgertech Generic PETG-CF @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PETG-CF @0.5 nozzle.json"
-        },
-        {
             "name": "Folgertech Generic PETG-CF @0.6 nozzle",
             "sub_path": "filament/Folgertech Generic PETG-CF @0.6 nozzle.json"
         },
@@ -639,10 +527,6 @@
         {
             "name": "Folgertech Generic PLA @0.4 nozzle",
             "sub_path": "filament/Folgertech Generic PLA @0.4 nozzle.json"
-        },
-        {
-            "name": "Folgertech Generic PLA @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PLA @0.5 nozzle.json"
         },
         {
             "name": "Folgertech Generic PLA @0.6 nozzle",
@@ -665,10 +549,6 @@
             "sub_path": "filament/Folgertech Generic PLA Silk @0.4 nozzle.json"
         },
         {
-            "name": "Folgertech Generic PLA Silk @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PLA Silk @0.5 nozzle.json"
-        },
-        {
             "name": "Folgertech Generic PLA Silk @0.6 nozzle",
             "sub_path": "filament/Folgertech Generic PLA Silk @0.6 nozzle.json"
         },
@@ -687,10 +567,6 @@
         {
             "name": "Folgertech Generic PLA-CF @0.4 nozzle",
             "sub_path": "filament/Folgertech Generic PLA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "Folgertech Generic PLA-CF @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PLA-CF @0.5 nozzle.json"
         },
         {
             "name": "Folgertech Generic PLA-CF @0.6 nozzle",
@@ -713,10 +589,6 @@
             "sub_path": "filament/Folgertech Generic TPU @0.4 nozzle.json"
         },
         {
-            "name": "Folgertech Generic TPU @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic TPU @0.5 nozzle.json"
-        },
-        {
             "name": "Folgertech Generic TPU @0.6 nozzle",
             "sub_path": "filament/Folgertech Generic TPU @0.6 nozzle.json"
         },
@@ -735,10 +607,6 @@
         {
             "name": "Folgertech Generic PVA @0.4 nozzle",
             "sub_path": "filament/Folgertech Generic PVA @0.4 nozzle.json"
-        },
-        {
-            "name": "Folgertech Generic PVA @0.5 nozzle",
-            "sub_path": "filament/Folgertech Generic PVA @0.5 nozzle.json"
         },
         {
             "name": "Folgertech Generic PVA @0.6 nozzle",
@@ -766,10 +634,6 @@
             "name": "Folgertech i3 (0.4 nozzle)",
             "sub_path": "machine/Folgertech i3 (0.4 nozzle).json"
         },
-		{
-            "name": "Folgertech i3 (0.5 nozzle)",
-            "sub_path": "machine/Folgertech i3 (0.5 nozzle).json"
-        },
         {
             "name": "Folgertech i3 (0.6 nozzle)",
             "sub_path": "machine/Folgertech i3 (0.6 nozzle).json"
@@ -787,10 +651,6 @@
             "sub_path": "machine/Folgertech FT-5 (0.4 nozzle).json"
         },
         {
-            "name": "Folgertech FT-5 (0.5 nozzle)",
-            "sub_path": "machine/Folgertech FT-5 (0.5 nozzle).json"
-        },
-        {
             "name": "Folgertech FT-5 (0.6 nozzle)",
             "sub_path": "machine/Folgertech FT-5 (0.6 nozzle).json"
         },
@@ -805,10 +665,6 @@
         {
             "name": "Folgertech FT-6 (0.4 nozzle)",
             "sub_path": "machine/Folgertech FT-6 (0.4 nozzle).json"
-        },
-        {
-            "name": "Folgertech FT-6 (0.5 nozzle)",
-            "sub_path": "machine/Folgertech FT-6 (0.5 nozzle).json"
         },
         {
             "name": "Folgertech FT-6 (0.6 nozzle)",

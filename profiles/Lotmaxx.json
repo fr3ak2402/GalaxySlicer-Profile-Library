@@ -52,22 +52,6 @@
             "sub_path": "process/0.24mm Draft @Lotmaxx SC10 (0.4 nozzle).json"
         },
 		{
-            "name": "0.12mm Fine @Lotmaxx SC10 (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @Lotmaxx SC10 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Lotmaxx SC10 (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Lotmaxx SC10 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Lotmaxx SC10 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Lotmaxx SC10 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.24mm Draft @Lotmaxx SC10 (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @Lotmaxx SC10 (0.5 nozzle).json"
-        },
-		{
             "name": "0.12mm Fine @Lotmaxx SC10 (0.6 nozzle)",
             "sub_path": "process/0.12mm Fine @Lotmaxx SC10 (0.6 nozzle).json"
         },
@@ -130,10 +114,6 @@
             "sub_path": "filament/Lotmaxx Generic ABS @0.4 nozzle.json"
         },
         {
-            "name": "Lotmaxx Generic ABS @0.5 nozzle",
-            "sub_path": "filament/Lotmaxx Generic ABS @0.5 nozzle.json"
-        },
-        {
             "name": "Lotmaxx Generic ABS @0.6 nozzle",
             "sub_path": "filament/Lotmaxx Generic ABS @0.6 nozzle.json"
         },
@@ -154,10 +134,6 @@
             "sub_path": "filament/Lotmaxx Generic PETG @0.4 nozzle.json"
         },
         {
-            "name": "Lotmaxx Generic PETG @0.5 nozzle",
-            "sub_path": "filament/Lotmaxx Generic PETG @0.5 nozzle.json"
-        },
-        {
             "name": "Lotmaxx Generic PETG @0.6 nozzle",
             "sub_path": "filament/Lotmaxx Generic PETG @0.6 nozzle.json"
         },
@@ -176,10 +152,6 @@
         {
             "name": "Lotmaxx Generic PLA @0.4 nozzle",
             "sub_path": "filament/Lotmaxx Generic PLA @0.4 nozzle.json"
-        },
-        {
-            "name": "Lotmaxx Generic PLA @0.5 nozzle",
-            "sub_path": "filament/Lotmaxx Generic PLA @0.5 nozzle.json"
         },
         {
             "name": "Lotmaxx Generic PLA @0.6 nozzle",
@@ -206,10 +178,6 @@
         {
             "name": "Lotmaxx SC-10 (0.4 nozzle)",
             "sub_path": "machine/Lotmaxx SC-10 (0.4 nozzle).json"
-        },
-        {
-            "name": "Lotmaxx SC-10 (0.5 nozzle)",
-            "sub_path": "machine/Lotmaxx SC-10 (0.5 nozzle).json"
         },
         {
             "name": "Lotmaxx SC-10 (0.6 nozzle)",

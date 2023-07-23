@@ -127,54 +127,6 @@
             "sub_path": "process/0.24mm Draft @BIQU Hurakan (0.4 nozzle).json"
         },
         {
-            "name": "0.12mm Fine @BIQU BX (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @BIQU BX (0.5 nozzle).json"
-        },
-        {
-            "name": "0.15mm Optimal @BIQU BX (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @BIQU BX (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @BIQU BX (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @BIQU BX (0.5 nozzle).json"
-        },
-        {
-            "name": "0.24mm Draft @BIQU BX (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @BIQU BX (0.5 nozzle).json"
-        },
-		{
-            "name": "0.12mm Fine @BIQU B1 (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @BIQU B1 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.15mm Optimal @BIQU B1 (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @BIQU B1 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @BIQU B1 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @BIQU B1 (0.5 nozzle).json"
-        },
-        {
-            "name": "0.24mm Draft @BIQU B1 (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @BIQU B1 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.12mm Fine @BIQU Hurakan (0.5 nozzle)",
-            "sub_path": "process/0.12mm Fine @BIQU Hurakan (0.5 nozzle).json"
-        },
-        {
-            "name": "0.15mm Optimal @BIQU Hurakan (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @BIQU Hurakan (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @BIQU Hurakan (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @BIQU Hurakan (0.5 nozzle).json"
-        },
-        {
-            "name": "0.24mm Draft @BIQU Hurakan (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @BIQU Hurakan (0.5 nozzle).json"
-        },
-        {
             "name": "0.12mm Fine @BIQU BX (0.6 nozzle)",
             "sub_path": "process/0.12mm Fine @BIQU BX (0.6 nozzle).json"
         },
@@ -321,10 +273,6 @@
             "sub_path": "filament/BIQU Generic ABS @0.4 nozzle.json"
         },
         {
-            "name": "BIQU Generic ABS @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic ABS @0.5 nozzle.json"
-        },
-        {
             "name": "BIQU Generic ABS @0.6 nozzle",
             "sub_path": "filament/BIQU Generic ABS @0.6 nozzle.json"
         },
@@ -343,10 +291,6 @@
         {
             "name": "BIQU Generic ASA @0.4 nozzle",
             "sub_path": "filament/BIQU Generic ASA @0.4 nozzle.json"
-        },
-        {
-            "name": "BIQU Generic ASA @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic ASA @0.5 nozzle.json"
         },
         {
             "name": "BIQU Generic ASA @0.6 nozzle",
@@ -369,10 +313,6 @@
             "sub_path": "filament/BIQU Generic PA @0.4 nozzle.json"
         },
         {
-            "name": "BIQU Generic PA @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PA @0.5 nozzle.json"
-        },
-        {
             "name": "BIQU Generic PA @0.6 nozzle",
             "sub_path": "filament/BIQU Generic PA @0.6 nozzle.json"
         },
@@ -391,10 +331,6 @@
         {
             "name": "BIQU Generic PA-CF @0.4 nozzle",
             "sub_path": "filament/BIQU Generic PA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "BIQU Generic PA-CF @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PA-CF @0.5 nozzle.json"
         },
         {
             "name": "BIQU Generic PA-CF @0.6 nozzle",
@@ -417,10 +353,6 @@
             "sub_path": "filament/BIQU Generic PC @0.4 nozzle.json"
         },
         {
-            "name": "BIQU Generic PC @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PC @0.5 nozzle.json"
-        },
-        {
             "name": "BIQU Generic PC @0.6 nozzle",
             "sub_path": "filament/BIQU Generic PC @0.6 nozzle.json"
         },
@@ -439,10 +371,6 @@
         {
             "name": "BIQU Generic PETG @0.4 nozzle",
             "sub_path": "filament/BIQU Generic PETG @0.4 nozzle.json"
-        },
-        {
-            "name": "BIQU Generic PETG @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PETG @0.5 nozzle.json"
         },
         {
             "name": "BIQU Generic PETG @0.6 nozzle",
@@ -465,10 +393,6 @@
             "sub_path": "filament/BIQU Generic PETG-CF @0.4 nozzle.json"
         },
         {
-            "name": "BIQU Generic PETG-CF @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PETG-CF @0.5 nozzle.json"
-        },
-        {
             "name": "BIQU Generic PETG-CF @0.6 nozzle",
             "sub_path": "filament/BIQU Generic PETG-CF @0.6 nozzle.json"
         },
@@ -487,10 +411,6 @@
         {
             "name": "BIQU Generic PLA Silk @0.4 nozzle",
             "sub_path": "filament/BIQU Generic PLA Silk @0.4 nozzle.json"
-        },
-        {
-            "name": "BIQU Generic PLA Silk @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PLA Silk @0.5 nozzle.json"
         },
         {
             "name": "BIQU Generic PLA Silk @0.6 nozzle",
@@ -513,10 +433,6 @@
             "sub_path": "filament/BIQU Generic PLA @0.4 nozzle.json"
         },
         {
-            "name": "BIQU Generic PLA @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PLA @0.5 nozzle.json"
-        },
-        {
             "name": "BIQU Generic PLA @0.6 nozzle",
             "sub_path": "filament/BIQU Generic PLA @0.6 nozzle.json"
         },
@@ -535,10 +451,6 @@
         {
             "name": "BIQU Generic PLA-CF @0.4 nozzle",
             "sub_path": "filament/BIQU Generic PLA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "BIQU Generic PLA-CF @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PLA-CF @0.5 nozzle.json"
         },
         {
             "name": "BIQU Generic PLA-CF @0.6 nozzle",
@@ -561,10 +473,6 @@
             "sub_path": "filament/BIQU Generic PVA @0.4 nozzle.json"
         },
         {
-            "name": "BIQU Generic PVA @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic PVA @0.5 nozzle.json"
-        },
-        {
             "name": "BIQU Generic PVA @0.6 nozzle",
             "sub_path": "filament/BIQU Generic PVA @0.6 nozzle.json"
         },
@@ -583,10 +491,6 @@
         {
             "name": "BIQU Generic TPU @0.4 nozzle",
             "sub_path": "filament/BIQU Generic TPU @0.4 nozzle.json"
-        },
-        {
-            "name": "BIQU Generic TPU @0.5 nozzle",
-            "sub_path": "filament/BIQU Generic TPU @0.5 nozzle.json"
         },
         {
             "name": "BIQU Generic TPU @0.6 nozzle",
@@ -619,10 +523,6 @@
             "sub_path": "machine/BIQU BX (0.4 nozzle).json"
         },
 		{
-            "name": "BIQU BX (0.5 nozzle)",
-            "sub_path": "machine/BIQU BX (0.5 nozzle).json"
-        },
-		{
             "name": "BIQU BX (0.6 nozzle)",
             "sub_path": "machine/BIQU BX (0.6 nozzle).json"
         },
@@ -639,10 +539,6 @@
             "sub_path": "machine/BIQU B1 (0.4 nozzle).json"
         },
 		{
-            "name": "BIQU B1 (0.5 nozzle)",
-            "sub_path": "machine/BIQU B1 (0.5 nozzle).json"
-        },
-		{
             "name": "BIQU B1 (0.6 nozzle)",
             "sub_path": "machine/BIQU B1 (0.6 nozzle).json"
         },
@@ -657,10 +553,6 @@
 		{
             "name": "BIQU Hurakan (0.4 nozzle)",
             "sub_path": "machine/BIQU Hurakan (0.4 nozzle).json"
-        },
-		{
-            "name": "BIQU Hurakan (0.5 nozzle)",
-            "sub_path": "machine/BIQU Hurakan (0.5 nozzle).json"
         },
 		{
             "name": "BIQU Hurakan (0.6 nozzle)",

@@ -191,82 +191,6 @@
             "sub_path": "process/0.30mm Draft @Anycubic 4MaxPro2 (0.4 nozzle).json"
         },
 		{
-            "name": "0.15mm Optimal @Anycubic i3MegaS (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Anycubic i3MegaS (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Anycubic Chiron (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Anycubic Chiron (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Anycubic Vyper (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Anycubic Vyper (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Anycubic KobraPlus (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Anycubic KobraPlus (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Anycubic KobraMax (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Anycubic KobraMax (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Anycubic 4MaxPro2 (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Anycubic 4MaxPro2 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Anycubic i3MegaS (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic i3MegaS (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Anycubic Chiron (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic Chiron (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Anycubic Vyper (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic Vyper (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Anycubic KobraPlus (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic KobraPlus (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Anycubic KobraMax (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic KobraMax (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @Anycubic 4MaxPro (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic 4MaxPro (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Anycubic 4MaxPro2 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Anycubic 4MaxPro2 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.30mm Draft @Anycubic i3MegaS (0.5 nozzle)",
-            "sub_path": "process/0.30mm Draft @Anycubic i3MegaS (0.5 nozzle).json"
-        },
-		{
-            "name": "0.30mm Draft @Anycubic Chiron (0.5 nozzle)",
-            "sub_path": "process/0.30mm Draft @Anycubic Chiron (0.5 nozzle).json"
-        },
-		{
-            "name": "0.30mm Draft @Anycubic Vyper (0.5 nozzle)",
-            "sub_path": "process/0.30mm Draft @Anycubic Vyper (0.5 nozzle).json"
-        },
-		{
-            "name": "0.30mm Draft @Anycubic KobraPlus (0.5 nozzle)",
-            "sub_path": "process/0.30mm Draft @Anycubic KobraPlus (0.5 nozzle).json"
-        },
-		{
-            "name": "0.30mm Draft @Anycubic KobraMax (0.5 nozzle)",
-            "sub_path": "process/0.30mm Draft @Anycubic KobraMax (0.5 nozzle).json"
-        },
-		{
-            "name": "0.30mm Draft @Anycubic 4MaxPro2 (0.5 nozzle)",
-            "sub_path": "process/0.30mm Draft @Anycubic 4MaxPro2 (0.5 nozzle).json"
-        },
-		{
             "name": "0.15mm Optimal @Anycubic i3MegaS (0.6 nozzle)",
             "sub_path": "process/0.15mm Optimal @Anycubic i3MegaS (0.6 nozzle).json"
         },
@@ -469,10 +393,6 @@
             "sub_path": "filament/Anycubic Generic PLA @0.4 nozzle.json"
         },
         {
-            "name": "Anycubic Generic PLA @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PLA @0.5 nozzle.json"
-        },
-        {
             "name": "Anycubic Generic PLA @0.6 nozzle",
             "sub_path": "filament/Anycubic Generic PLA @0.6 nozzle.json"
         },
@@ -491,10 +411,6 @@
         {
             "name": "Anycubic Generic PLA-CF @0.4 nozzle",
             "sub_path": "filament/Anycubic Generic PLA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "Anycubic Generic PLA-CF @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PLA-CF @0.5 nozzle.json"
         },
         {
             "name": "Anycubic Generic PLA-CF @0.6 nozzle",
@@ -517,10 +433,6 @@
             "sub_path": "filament/Anycubic Generic PETG @0.4 nozzle.json"
         },
         {
-            "name": "Anycubic Generic PETG @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PETG @0.5 nozzle.json"
-        },
-        {
             "name": "Anycubic Generic PETG @0.6 nozzle",
             "sub_path": "filament/Anycubic Generic PETG @0.6 nozzle.json"
         },
@@ -539,10 +451,6 @@
         {
             "name": "Anycubic Generic ABS @0.4 nozzle",
             "sub_path": "filament/Anycubic Generic ABS @0.4 nozzle.json"
-        },
-        {
-            "name": "Anycubic Generic ABS @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic ABS @0.5 nozzle.json"
         },
         {
             "name": "Anycubic Generic ABS @0.6 nozzle",
@@ -565,10 +473,6 @@
             "sub_path": "filament/Anycubic Generic TPU @0.4 nozzle.json"
         },
         {
-            "name": "Anycubic Generic TPU @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic TPU @0.5 nozzle.json"
-        },
-        {
             "name": "Anycubic Generic TPU @0.6 nozzle",
             "sub_path": "filament/Anycubic Generic TPU @0.6 nozzle.json"
         },
@@ -587,10 +491,6 @@
         {
             "name": "Anycubic Generic ASA @0.4 nozzle",
             "sub_path": "filament/Anycubic Generic ASA @0.4 nozzle.json"
-        },
-        {
-            "name": "Anycubic Generic ASA @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic ASA @0.5 nozzle.json"
         },
         {
             "name": "Anycubic Generic ASA @0.6 nozzle",
@@ -613,10 +513,6 @@
             "sub_path": "filament/Anycubic Generic PC @0.4 nozzle.json"
         },
         {
-            "name": "Anycubic Generic PC @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PC @0.5 nozzle.json"
-        },
-        {
             "name": "Anycubic Generic PC @0.6 nozzle",
             "sub_path": "filament/Anycubic Generic PC @0.6 nozzle.json"
         },
@@ -635,10 +531,6 @@
         {
             "name": "Anycubic Generic PVA @0.4 nozzle",
             "sub_path": "filament/Anycubic Generic PVA @0.4 nozzle.json"
-        },
-        {
-            "name": "Anycubic Generic PVA @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PVA @0.5 nozzle.json"
         },
         {
             "name": "Anycubic Generic PVA @0.6 nozzle",
@@ -661,10 +553,6 @@
             "sub_path": "filament/Anycubic Generic PA @0.4 nozzle.json"
         },
         {
-            "name": "Anycubic Generic PA @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PA @0.5 nozzle.json"
-        },
-        {
             "name": "Anycubic Generic PA @0.6 nozzle",
             "sub_path": "filament/Anycubic Generic PA @0.6 nozzle.json"
         },
@@ -683,10 +571,6 @@
         {
             "name": "Anycubic Generic PA-CF @0.4 nozzle",
             "sub_path": "filament/Anycubic Generic PA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "Anycubic Generic PA-CF @0.5 nozzle",
-            "sub_path": "filament/Anycubic Generic PA-CF @0.5 nozzle.json"
         },
         {
             "name": "Anycubic Generic PA-CF @0.6 nozzle",
@@ -710,10 +594,6 @@
             "name": "Anycubic i3 Mega S (0.4 nozzle)",
             "sub_path": "machine/Anycubic i3 Mega S (0.4 nozzle).json"
         },
-		{
-            "name": "Anycubic i3 Mega S (0.5 nozzle)",
-            "sub_path": "machine/Anycubic i3 Mega S (0.5 nozzle).json"
-        },
 				{
             "name": "Anycubic i3 Mega S (0.6 nozzle)",
             "sub_path": "machine/Anycubic i3 Mega S (0.6 nozzle).json"
@@ -729,10 +609,6 @@
 		{
             "name": "Anycubic Chiron (0.4 nozzle)",
             "sub_path": "machine/Anycubic Chiron (0.4 nozzle).json"
-        },
-		{
-            "name": "Anycubic Chiron (0.5 nozzle)",
-            "sub_path": "machine/Anycubic Chiron (0.5 nozzle).json"
         },
 		{
             "name": "Anycubic Chiron (0.6 nozzle)",
@@ -751,10 +627,6 @@
             "sub_path": "machine/Anycubic Vyper (0.4 nozzle).json"
         },
 		{
-            "name": "Anycubic Vyper (0.5 nozzle)",
-            "sub_path": "machine/Anycubic Vyper (0.5 nozzle).json"
-        },
-		{
             "name": "Anycubic Vyper (0.6 nozzle)",
             "sub_path": "machine/Anycubic Vyper (0.6 nozzle).json"
         },
@@ -769,10 +641,6 @@
 		{
             "name": "Anycubic Kobra Plus (0.4 nozzle)",
             "sub_path": "machine/Anycubic Kobra Plus (0.4 nozzle).json"
-        },
-		{
-            "name": "Anycubic Kobra Plus (0.5 nozzle)",
-            "sub_path": "machine/Anycubic Kobra Plus (0.5 nozzle).json"
         },
 		{
             "name": "Anycubic Kobra Plus (0.6 nozzle)",
@@ -791,10 +659,6 @@
             "sub_path": "machine/Anycubic Kobra Max (0.4 nozzle).json"
         },
 		{
-            "name": "Anycubic Kobra Max (0.5 nozzle)",
-            "sub_path": "machine/Anycubic Kobra Max (0.5 nozzle).json"
-        },
-		{
             "name": "Anycubic Kobra Max (0.6 nozzle)",
             "sub_path": "machine/Anycubic Kobra Max (0.6 nozzle).json"
         },
@@ -811,10 +675,6 @@
             "sub_path": "machine/Anycubic 4Max Pro (0.4 nozzle).json"
         },
 	    {
-            "name": "Anycubic 4Max Pro (0.5 nozzle)",
-            "sub_path": "machine/Anycubic 4Max Pro (0.5 nozzle).json"
-        },
-	    {
             "name": "Anycubic 4Max Pro (0.6 nozzle)",
             "sub_path": "machine/Anycubic 4Max Pro (0.6 nozzle).json"
         },
@@ -829,10 +689,6 @@
 		{
             "name": "Anycubic 4Max Pro 2 (0.4 nozzle)",
             "sub_path": "machine/Anycubic 4Max Pro 2 (0.4 nozzle).json"
-        },
-		{
-            "name": "Anycubic 4Max Pro 2 (0.5 nozzle)",
-            "sub_path": "machine/Anycubic 4Max Pro 2 (0.5 nozzle).json"
         },
 		{
             "name": "Anycubic 4Max Pro 2 (0.6 nozzle)",

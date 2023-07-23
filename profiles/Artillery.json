@@ -107,46 +107,6 @@
             "sub_path": "process/0.24mm Draft @Artillery Hornet (0.4 nozzle).json"
         },
 		{
-            "name": "0.16mm Optimal @Artillery X1 (0.5 nozzle)",
-            "sub_path": "process/0.16mm Optimal @Artillery X1 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.15mm Optimal @Artillery Genius (0.5 nozzle)",
-            "sub_path": "process/0.15mm Optimal @Artillery Genius (0.5 nozzle).json"
-        },
-		{
-            "name": "0.16mm Optimal @Artillery Hornet (0.5 nozzle)",
-            "sub_path": "process/0.16mm Optimal @Artillery Hornet (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Artillery X1 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Artillery X1 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Artillery Genius (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Artillery Genius (0.5 nozzle).json"
-        },
-        {
-            "name": "0.20mm Standard @Artillery X2 (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Artillery X2 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.20mm Standard @Artillery Hornet (0.5 nozzle)",
-            "sub_path": "process/0.20mm Standard @Artillery Hornet (0.5 nozzle).json"
-        },
-		{
-            "name": "0.24mm Draft @Artillery X1 (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @Artillery X1 (0.5 nozzle).json"
-        },
-		{
-            "name": "0.25mm Draft @Artillery Genius (0.5 nozzle)",
-            "sub_path": "process/0.25mm Draft @Artillery Genius (0.5 nozzle).json"
-        },
-		{
-            "name": "0.24mm Draft @Artillery Hornet (0.5 nozzle)",
-            "sub_path": "process/0.24mm Draft @Artillery Hornet (0.5 nozzle).json"
-        },
-		{
             "name": "0.16mm Optimal @Artillery X1 (0.6 nozzle)",
             "sub_path": "process/0.16mm Optimal @Artillery X1 (0.6 nozzle).json"
         },
@@ -265,10 +225,6 @@
             "sub_path": "filament/Artillery Generic PLA @0.4 nozzle.json"
         },
         {
-            "name": "Artillery Generic PLA @0.5 nozzle",
-            "sub_path": "filament/Artillery Generic PLA @0.5 nozzle.json"
-        },
-        {
             "name": "Artillery Generic PLA @0.6 nozzle",
             "sub_path": "filament/Artillery Generic PLA @0.6 nozzle.json"
         },
@@ -287,10 +243,6 @@
         {
             "name": "Artillery Generic PLA-CF @0.4 nozzle",
             "sub_path": "filament/Artillery Generic PLA-CF @0.4 nozzle.json"
-        },
-        {
-            "name": "Artillery Generic PLA-CF @0.5 nozzle",
-            "sub_path": "filament/Artillery Generic PLA-CF @0.5 nozzle.json"
         },
         {
             "name": "Artillery Generic PLA-CF @0.6 nozzle",
@@ -313,10 +265,6 @@
             "sub_path": "filament/Artillery Generic PETG @0.4 nozzle.json"
         },
         {
-            "name": "Artillery Generic PETG @0.5 nozzle",
-            "sub_path": "filament/Artillery Generic PETG @0.5 nozzle.json"
-        },
-        {
             "name": "Artillery Generic PETG @0.6 nozzle",
             "sub_path": "filament/Artillery Generic PETG @0.6 nozzle.json"
         },
@@ -335,10 +283,6 @@
         {
             "name": "Artillery Generic ABS @0.4 nozzle",
             "sub_path": "filament/Artillery Generic ABS @0.4 nozzle.json"
-        },
-        {
-            "name": "Artillery Generic ABS @0.5 nozzle",
-            "sub_path": "filament/Artillery Generic ABS @0.5 nozzle.json"
         },
         {
             "name": "Artillery Generic ABS @0.6 nozzle",
@@ -361,10 +305,6 @@
             "sub_path": "filament/Artillery Generic TPU @0.4 nozzle.json"
         },
         {
-            "name": "Artillery Generic TPU @0.5 nozzle",
-            "sub_path": "filament/Artillery Generic TPU @0.5 nozzle.json"
-        },
-        {
             "name": "Artillery Generic TPU @0.6 nozzle",
             "sub_path": "filament/Artillery Generic TPU @0.6 nozzle.json"
         },
@@ -383,10 +323,6 @@
         {
             "name": "Artillery Generic ASA @0.4 nozzle",
             "sub_path": "filament/Artillery Generic ASA @0.4 nozzle.json"
-        },
-        {
-            "name": "Artillery Generic ASA @0.5 nozzle",
-            "sub_path": "filament/Artillery Generic ASA @0.5 nozzle.json"
         },
         {
             "name": "Artillery Generic ASA @0.6 nozzle",
@@ -411,10 +347,6 @@
             "sub_path": "machine/Artillery Sidewinder X1 (0.4 nozzle).json"
         },
 		{
-            "name": "Artillery Sidewinder X1 (0.5 nozzle)",
-            "sub_path": "machine/Artillery Sidewinder X1 (0.5 nozzle).json"
-        },
-		{
             "name": "Artillery Sidewinder X1 (0.6 nozzle)",
             "sub_path": "machine/Artillery Sidewinder X1 (0.6 nozzle).json"
         },
@@ -429,10 +361,6 @@
 		{
             "name": "Artillery Genius (0.4 nozzle)",
             "sub_path": "machine/Artillery Genius (0.4 nozzle).json"
-        },
-		{
-            "name": "Artillery Genius (0.5 nozzle)",
-            "sub_path": "machine/Artillery Genius (0.5 nozzle).json"
         },
 		{
             "name": "Artillery Genius (0.6 nozzle)",
@@ -451,10 +379,6 @@
             "sub_path": "machine/Artillery Sidewinder X2 (0.4 nozzle).json"
         },
 		{
-            "name": "Artillery Sidewinder X2 (0.5 nozzle)",
-            "sub_path": "machine/Artillery Sidewinder X2 (0.5 nozzle).json"
-        },
-		{
             "name": "Artillery Sidewinder X2 (0.6 nozzle)",
             "sub_path": "machine/Artillery Sidewinder X2 (0.6 nozzle).json"
         },
@@ -469,10 +393,6 @@
 		{
             "name": "Artillery Hornet (0.4 nozzle)",
             "sub_path": "machine/Artillery Hornet (0.4 nozzle).json"
-        },
-		{
-            "name": "Artillery Hornet (0.5 nozzle)",
-            "sub_path": "machine/Artillery Hornet (0.5 nozzle).json"
         },
 		{
             "name": "Artillery Hornet (0.6 nozzle)",
