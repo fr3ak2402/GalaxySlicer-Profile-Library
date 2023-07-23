@@ -8,5 +8,5 @@
     "bed_model": "folgertech_ft5_buildplate_model.stl",
     "bed_texture": "folgertech_ft5_buildplate_texture.png",
     "hotend_model": "folgertech_hotend_model.stl",
-    "default_materials": "Folgertech Generic PLA;Folgertech Generic PETG;Folgertech Generic ABS;"
+    "default_materials": "Folgertech Generic PLA @0.2 nozzle;Folgertech Generic PETG @0.2 nozzle;Folgertech Generic ABS @0.2 nozzle;Folgertech Generic PLA @0.4 nozzle;Folgertech Generic PETG @0.4 nozzle;Folgertech Generic ABS @0.4 nozzle;Folgertech Generic PLA @0.6 nozzle;Folgertech Generic PETG @0.6 nozzle;Folgertech Generic ABS @0.6 nozzle;Folgertech Generic PLA @0.8 nozzle;Folgertech Generic PETG @0.8 nozzle;Folgertech Generic ABS @0.8 nozzle"
 }
