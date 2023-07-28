@@ -1,66 +1,28 @@
 {
-    "type": "machine",
-    "setting_id": "GM011",
-    "name": "Snapmaker J1 (0.6 nozzle)",
-    "from": "system",
-    "instantiation": "true",
-    "inherits": "fdm_machine_idex",
-    "printer_model": "Snapmaker J1",
-    "default_print_profile": "0.20mm Standard @Snapmaker J1 (0.6 nozzle)",
-    "retraction_minimum_travel": [
-      "3"
-    ],
-    "thumbnails": [
-     "400x400"
-    ],
-    "z_hop_types": [
-      "Auto Lift"
-    ],
-    "z_lift_type": [
-      "SpiralLift"
-    ],
-    "nozzle_diameter": [
-        "0.6"
-    ],
-	"printer_variant": "0.6",
-    "bed_exclude_area": [
-      "0x0"
-    ],
-    "printable_area": [
-      "0x0",
-      "324x0",
-      "324x200",
-      "0x200"
-    ],
-    "printable_height": "200",
-    "machine_max_acceleration_e": [
-        "6000",
-        "5000"
-    ],
-    "machine_max_acceleration_extruding": [
-        "5000",
-        "2000"
-    ],
-    "machine_max_acceleration_retracting": [
-        "6000",
-        "5000"
-    ],
-    "machine_max_acceleration_x": [
-        "5000",
-        "2000"
-    ],
-    "machine_max_acceleration_y": [
-        "5000",
-        "2000"
-    ],
-    "machine_max_speed_e": [
-        "60",
-        "25"
-    ],
-    "max_layer_height": [
-        "0.40"
-    ],
-    "scan_first_layer": "0",
-    "nozzle_type": "hardened_steel",
-    "auxiliary_fan": "0"
+  "name": "Snapmaker J1 (0.6 nozzle)",
+  "setting_id": "snapmaker_j1_(0.6_nozzle)",
+  "inherits": "fdm_machine_idex",
+  "type": "machine",
+  "from": "system",
+  "instantiation": "true",
+  "nozzle_diameter": [
+    "0.6",
+    "0.6"
+  ],
+  "printer_variant": "0.6",
+  "printer_model": "Snapmaker J1",
+  "default_print_profile": "0.24 Standard @Snapmaker J1 (0.6 nozzle)",
+  "max_layer_height": [
+    "0.42"
+  ],
+  "min_layer_height": [
+    "0.18"
+  ],
+  "retraction_length": [
+    "0.8"
+  ],
+  "retraction_minimum_travel": [
+    "1"
+  ],
+  "nozzle_type": "stainless_steel"
 }
