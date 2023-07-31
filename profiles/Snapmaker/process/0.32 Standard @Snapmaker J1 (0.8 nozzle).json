@@ -3,7 +3,7 @@
     "inherits": "fdm_process_idex",
     "instantiation": "true",
     "compatible_printers": [
-        "Snapmaker J1 (0.8 nozzle)"
+        "Snapmaker J1 (0.8 nozzle) (IDEX)"
     ],
     "type": "process",
     "from": "system",
