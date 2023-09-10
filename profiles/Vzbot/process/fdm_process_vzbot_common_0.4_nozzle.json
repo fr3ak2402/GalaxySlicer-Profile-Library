@@ -55,7 +55,7 @@
     "print_settings_id": "",
     "raft_layers": "0",
     "seam_position": "nearest",
-	"seam_gap": "2%",
+    "seam_gap": "2%",
     "skirt_distance": "2",
     "skirt_height": "1",
     "skirt_loops": "1",
@@ -100,11 +100,11 @@
     "travel_speed": "800",
     "enable_prime_tower": "0",
     "wipe_tower_no_sparse_layers": "0",
-    "prime_tower_width": "35",
+    "prime_tower_width": "60",
     "xy_hole_compensation": "0.075",
     "xy_contour_compensation": "0",
     "compatible_printers": [
-      "Vzbot 235 AWD 0.4 nozzle",
-      "Vzbot 330 AWD 0.4 nozzle"
+        "Vzbot 235 AWD 0.4 nozzle",
+        "Vzbot 330 AWD 0.4 nozzle"
     ]
 }
