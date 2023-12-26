@@ -2,7 +2,7 @@
 ------------------------------------------------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/fr3ak2402/GalaxySlicer-Profile-Library/blob/main/LICENSE)
 ------------------------------------------------
->⚠️ The profiles are only compatible with the GalaxySlicer
+>⚠️ The profiles are only compatible with the GalaxySlicer. The management of profiles has changed so that this can only be done via the GalaxySlicer Profile Manager.
 
 All printer profiles for the GalaxySlicer are stored in this library. All profiles are managed here and new profiles are added. In addition, the fixes of the profiles are imported into the library.
 
