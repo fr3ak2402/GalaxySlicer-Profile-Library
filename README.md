@@ -12,6 +12,10 @@ The library is linked to the Profile Manger of the GalaxySlicer, so that all pro
 
 The advantage of synchronization is that local profiles can be updated via the library or new profiles can be integrated into the existing version of the slicer.
 
-------------------------------------------------
+# Supported printers
+
+The following printers are currently part of the GalaxySlicer Profile Library: **[Printer list](https://github.com/fr3ak2402/GalaxySlicer-Profile-Library/wiki/Supported-printers)**
+
+# How to Wiki articles
 
 For more information on how to create a new profile, see the wiki of this repository.
